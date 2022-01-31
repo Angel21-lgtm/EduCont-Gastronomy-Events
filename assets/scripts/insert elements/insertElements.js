@@ -14,7 +14,7 @@ const insertElements = (root) => {
             </nav>
             <div class="contenedor head">
                 <h1 class="titulo">Convertimos tus sueños en realidad</h1>
-                <p class="copy">Lorem ipsum, dolor sit amet consectetur adipisicing.</p>
+                <p class="copy">¡Expertos en gastronomía para hacer tus sueños realidad!</p>
             </div>
         </header>
         <main>
